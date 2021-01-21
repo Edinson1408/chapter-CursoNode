@@ -67,3 +67,22 @@ getEmpleado(1,(error,empleado)=>{
 
 
 
+// let obtener_reuniones=(idevento,callback)=>{
+//     let evento={idevento}
+//     if (idevento===1) {
+//         //hacer un posto con el detalle del evento
+//         callback(null,{evento:1,detalle:[{nombre:'evento1'}]} )
+//     }else{
+//         callback('Error', {evento})
+//     }
+    
+// }
+
+// obtener_reuniones(1,(erro,data)=>{
+//     if (erro) {
+//         return console.log('Error demelas',erro)
+//     }else {
+//         console.log(data)
+//         //creamos las vista pe ppa
+//     }
+// })
